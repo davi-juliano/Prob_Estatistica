@@ -1,2 +1,2 @@
-# Prob_Estatistica
-Statistics and Probability
+# Probabilidade e Estatística
+Statistics and Probability (Unifesp - Profa. Dra. Sâmia Calheiros)
